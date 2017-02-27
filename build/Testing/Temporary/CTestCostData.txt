@@ -1,0 +1,6 @@
+LaborkaWynikSin90 0 0
+LaborkaWynikCos0 0 0
+LaborkaPodstawowyTest 14 0.000571387
+LaborkaWynikSin45 5 0.00139999
+Laborka3sek 9 0.000666724
+---
