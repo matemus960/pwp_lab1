@@ -1,12 +1,9 @@
-﻿Build started 2017-02-27 11:10:13.
+﻿Build started 2017-02-27 11:25:31.
      1>Project "C:\Users\student\Desktop\pwp_lab1\pwp_lab1\build\ZERO_CHECK.vcxproj" on node 2 (build target(s)).
-     1>PrepareForBuild:
-         Creating directory "C:\Users\student\Desktop\pwp_lab1\pwp_lab1\build\Debug\".
-       InitializeBuildStatus:
+     1>InitializeBuildStatus:
          Creating "Win32\Debug\ZERO_CHECK\ZERO_CHECK.unsuccessfulbuild" because "AlwaysCreate" was specified.
        CustomBuild:
-         Checking Build System
-         CMake does not need to re-run because C:/Users/student/Desktop/pwp_lab1/pwp_lab1/build/CMakeFiles/generate.stamp is up-to-date.
+         All outputs are up-to-date.
        FinalizeBuildStatus:
          Deleting file "Win32\Debug\ZERO_CHECK\ZERO_CHECK.unsuccessfulbuild".
          Touching "Win32\Debug\ZERO_CHECK\ZERO_CHECK.lastbuildstate".
@@ -14,4 +11,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:01.13
+Time Elapsed 00:00:00.12
