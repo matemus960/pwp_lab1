@@ -1,4 +1,3 @@
 C:/Users/student/Desktop/pwp_lab1/pwp_lab1/build/CMakeFiles/ALL_BUILD.dir
 C:/Users/student/Desktop/pwp_lab1/pwp_lab1/build/CMakeFiles/Laborka.dir
 C:/Users/student/Desktop/pwp_lab1/pwp_lab1/build/CMakeFiles/ZERO_CHECK.dir
-C:/Users/student/Desktop/pwp_lab1/pwp_lab1/build/Trygonometria/CMakeFiles/Trygonometria.dir
