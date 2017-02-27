@@ -1,4 +1,4 @@
-﻿Build started 2017-02-27 11:25:31.
+﻿Build started 2017-02-27 11:51:35.
      1>Project "C:\Users\student\Desktop\pwp_lab1\pwp_lab1\build\ZERO_CHECK.vcxproj" on node 2 (build target(s)).
      1>InitializeBuildStatus:
          Creating "Win32\Debug\ZERO_CHECK\ZERO_CHECK.unsuccessfulbuild" because "AlwaysCreate" was specified.
@@ -11,4 +11,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:00.12
+Time Elapsed 00:00:00.03
